@@ -1,0 +1,1 @@
+Simple PowerPointAutomation generates Microsoft PowerPoint Slides from Template with data from Microsoft Excel 

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointAutomation", "PowerPointAutomation\PowerPointAutomation.csproj", "{1513D437-0AC7-42ED-BC7A-6922B369F307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1513D437-0AC7-42ED-BC7A-6922B369F307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1513D437-0AC7-42ED-BC7A-6922B369F307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1513D437-0AC7-42ED-BC7A-6922B369F307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1513D437-0AC7-42ED-BC7A-6922B369F307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA9116C0-03FB-46E5-8282-832AC09EC384}
+	EndGlobalSection
+EndGlobal
